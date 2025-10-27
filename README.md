@@ -37,8 +37,9 @@ Always up for new challenges—whether it’s crafting a fresh Django app, build
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/nixonnelson22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nixonnelson22" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nixonnelson22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nixonnelson22/" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/nixonnelson22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nixonnelson22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
