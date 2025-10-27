@@ -1,19 +1,39 @@
 <h1 align="center">Hi 👋, I'm Nixon Nelson Paliakkara</h1>
-<h3 align="center">I am an aspiring game developer, and a robotics enthusiast I love tinkering with my load of microcontrollers :) and I love Gaming I do a lot of code in python and C# but I have knowledge of other proggramming laguages as well I Run Arch btw! but use it to tinker with my setup a lot linux distros are like a never ending tinkering project and i love tuning things making shortcuts and making my life easier as I do which ends up happening very rarely</h3>
+<h3 align="center">
+Passionate about building things—from clever games to robust backend platforms. If it runs Linux, spins pixels, or needs automation, there’s a good chance I’ve tinkered with it.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixonnelson22&label=Profile%20views&color=0e75b6&style=flat" alt="nixonnelson22" /> </p>
 
-- 🔭 I’m currently working on [Skip The rock 2D](https://github.com/NixonNelson22/skip-the-rock-2d)
-  
-- 🔭 2nd Project [Dungeon Sword](https://github.com/NixonNelson22/Dungeon_Sword)
 
-- 🌱 I’m currently learning **Django , HTMX**
+## 🛠️ What fuels me?
+- Game development with Unity, C, and pixel art—projects like **Dungeon Sword**, **Skip The Rock**, and **F1 Racer** are my creative playgrounds.
+- Django developer for industrial environments: architected web-based invoice/report platforms using Django and HTMX to modernize legacy systems and boost efficiency.
+- Python automation fan—whether scripting user retention dashboards, CRM tools, or making everyday workflows easier with Selenium, Jenkins, and Docker.
+- Obsessed with embedded systems (MSP430, ESP8266, Atmega328p, Raspberry Pi)—bringing code to the real world keeps things interesting.
+- Linux power user: Arch is my go-to for customizing setups, smart shortcuts, and exploring new distros.
 
-- 👨‍💻 All of my projects are available at [https://github.com/NixonNelson22](https://github.com/NixonNelson22)
+## 👨‍💻 Skills I enjoy using
+- **Programming:** Python, Django, SQL, C, C#, Java SE, HTML5, CSS3, JavaScript, Bash, PowerShell
+- **Frameworks/Tools:** Django REST Framework, HTMX, Unity, Docker, Jenkins, Selenium
+- **Database:** PostgreSQL
+- **Platforms:** Arch Linux, Debian, AWS, GCP
 
-- 📫 How to reach me **nixonnelson22@gmail.com**
+## 🚀 Projects & Achievements
+- Designed factory automation suites with Django and HTMX for seamless industrial reporting.
+- Built CRM and analytics automation scripts (Python/Selenium) to improve retention and engagement.
+- Created ML and computer vision solutions for smart agriculture (OpenCV + web frontend).
+- Deployed Unity-based games to Android/Linux; developed device control and autonomous rovers using OpenCV and ROS.
 
-- 📄 Know about my experiences [https://sites.google.com/view/nixonnelson22/home](https://sites.google.com/view/nixonnelson22/home)
+## 📜 Credentials & Learning
+- **B.E. Computer Science** – St John College
+- **Hero Vired Gaming & Esports Certificate**
+- **NPTEL, NIELIT, Coursera:** Embedded systems, FPGA, C programming
+
+---
+
+Always up for new challenges—whether it’s crafting a fresh Django app, building game worlds, or wiring up an IoT experiment. Let’s connect if you’re into hands-on software, game dev, automation, or just love talking Linux!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
